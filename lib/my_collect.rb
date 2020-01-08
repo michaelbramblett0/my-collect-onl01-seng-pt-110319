@@ -1,4 +1,5 @@
 list = ["bw", "qw", "aa"]
 
-def 
+def my_collect(array)
+  
 

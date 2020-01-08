@@ -1,2 +1,4 @@
-list = ["bw, "]
+list = ["bw", "qw", "aa"]
+
+def 
 
